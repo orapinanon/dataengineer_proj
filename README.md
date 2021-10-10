@@ -185,21 +185,13 @@ System for searching books by sales:<br>
 <p align="center">Dashboard 2: Search book by revenue</p>
 
 <i>Notes: The parameter allows the user to enter their information.
-We can create a variable (Parameter) to allow users to fill in their data or choose. from the values, we can set
-support<br>
-- letter<br>
-- numbers<br>
-- True/False<br>
+We can create a variable (Parameter) to allow users to fill in their data or choose.
 Parameters can be used in the Calculated Field.
 <br>
 
 Notes2: Calculated Field, write your equations
 If an existing column doesn't meet our needs, we can write an equation from the existing data to create the column we need.
-such as<br>
-- Combine the values of multiple columns + - * / together.<br>
-- Concatenate columns of text (concat).<br>
-- Write terms with CASE WHEN.<br>
-Include Functions available in the Calculated Field:</i>
+</i>
 <br>
 </div> 
 
