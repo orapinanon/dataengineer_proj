@@ -203,6 +203,13 @@ Include Functions available in the Calculated Field:
 <br>
 </div> 
 
+<h2 id="Certificate after graduation">Certificate after graduation</h2>
+After completing the course and passing the final exam, you will immediately receive a certificate from the Road to Data Engineer instructor!
+<br><br>
+
+![docs](Pics/Orapin_Certificate.png)
+<p align="center">Certificate after graduation</p>
+
 <h2 id="References Data">References Data</h2>
 <ol>
 
