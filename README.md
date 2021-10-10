@@ -184,7 +184,7 @@ System for searching books by sales:<br>
 ![docs](Pics/dashboard2.png)
 <p align="center">Dashboard 2: Search book by revenue</p>
 
-Notes: The parameter allows the user to enter their information.
+<i>Notes: The parameter allows the user to enter their information.
 We can create a variable (Parameter) to allow users to fill in their data or choose. from the values, we can set
 support<br>
 - letter<br>
@@ -199,7 +199,7 @@ such as<br>
 - Combine the values of multiple columns + - * / together.<br>
 - Concatenate columns of text (concat).<br>
 - Write terms with CASE WHEN.<br>
-Include Functions available in the Calculated Field:
+Include Functions available in the Calculated Field:</i>
 <br>
 </div> 
 
