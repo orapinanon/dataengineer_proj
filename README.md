@@ -1,14 +1,12 @@
-<h1 align="center" id="Data Engineer Project">Data Engineer Project</h1> 
+<h1 align="center" id="Data Engineer Project">Data Engineer Project</h1>
 <h3 id="(Data as of 7/7/2021)"><i>(Data as of 10 October 2021)</i></h3>
-<li>
-<a href="https://datastudio.google.com/reporting/77caf52a-121c-4728-8edd-47453f22a1b3">LINK to my Google Data Studio Dashboard</a>
 </li>
 <br>
 <div align="justify">
 Last two months, I had an excellent opportunity to take the Road to Data Engineer (R2DE 2.0) course from DATAth.com.
 Road to Data Engineer (R2DE) is a course that provides fundamental to advance knowledge in the Data Engineer track with the workshop in every chapter. We can apply the knowledge to build our end-to-end Data Pipeline by using the cutting edge technology that is popular today
 
-This dashboard was inspired by <a href="https://school.datath.com/courses/road-to-data-engineer-2">Road to Data Engineer</a> course :) 
+This dashboard was inspired by <a href="https://school.datath.com/courses/road-to-data-engineer-2">Road to Data Engineer</a> course :)
 
 <h2 id="Tech Stack">Tech Stack</h2>
 ✔️ Python (Google Colab)<br>
@@ -33,7 +31,7 @@ This dashboard was inspired by <a href="https://school.datath.com/courses/road-t
 
 - Basic of Data Engineer
 - Concept of Big Data & Hadoop
-- Database, Data Warehouse, Data Lake 
+- Database, Data Warehouse, Data Lake
 
 ✔️ CH1 Data Pipeline & ETL
 - Data Pipeline (ETL/ELT)
@@ -44,10 +42,10 @@ This dashboard was inspired by <a href="https://school.datath.com/courses/road-t
 ✔️ CH2 Data Quality & Wrangling
 - Data Cleansing
 - Data Quality (Data Lineage and Data Dictionary)
-- EDA (Exploratory Data Analysis) and Data Profiling 
-- Handling Anomaly และ missing data 
-- Distributed Data Processing 
-- Concept of Apache Spark 
+- EDA (Exploratory Data Analysis) and Data Profiling
+- Handling Anomaly และ missing data
+- Distributed Data Processing
+- Concept of Apache Spark
 - Workshop 2: Data Wrangling, Data Cleansing with Apache Spark (Colab and PySpark)
 
 ✔️ CH3 Basic Cloud - Google Cloud
@@ -56,7 +54,7 @@ This dashboard was inspired by <a href="https://school.datath.com/courses/road-t
 - Cloud vs on-premise
 - Concept of Cloud computing e.g., Managed Service and serverless
 - GCP (Google Cloud Platform) services
-- Data Processing and storage on cloud 
+- Data Processing and storage on cloud
 - Basic of Bash Command
 - Workshop 3: Data Storage with GCS
 
@@ -66,12 +64,12 @@ This dashboard was inspired by <a href="https://school.datath.com/courses/road-t
 - Concept of Apache Airflow
 - DAG: Directed Acyclic Graph
 - Cloud Composer (GCP)
-- Create data pipeline with Apache Airflow 
+- Create data pipeline with Apache Airflow
 - Workshop 4: Automated Data Pipeline with Airflow
 
 ✔️ CH5 Introduction to BigQuery
 - Data Warehouse
-- BigQuery and the concept of BigQuery 
+- BigQuery and the concept of BigQuery
 - Load data into BigQuery
 - Design schema in BigQuery
 - Workshop 5: Building Data Warehouse with BigQuery (feeding data from AirFlow)
@@ -80,15 +78,15 @@ This dashboard was inspired by <a href="https://school.datath.com/courses/road-t
 - Data visualization
 - Google Data Studio
 - Connect Data Studio with data sources
-- Dimension and Metric in chart 
+- Dimension and Metric in chart
 - Workshop 6: Building dashboard with Google Data Studio (Data from BigQuery)
 
 ✔️ CH7 Advanced Data Engineering
 - Case study for using data pipeline
 - Data Architecture
 - Git and Docker container
-- Data Privacy 
-- Introduce to Machine Learning engineer 
+- Data Privacy
+- Introduce to Machine Learning engineer
 - ML deployment pipeline (MLDevOp)
 - The future of Data Warehouse e.g., Snowflake
 
@@ -135,7 +133,7 @@ Input: Data store in BigQuery -> Output: Report and Dashboard on Google Data Stu
 ![docs](Pics/audible_data.png)
 <p align="center">Example of our dataset (Audible book data)</p>
 
- 
+
 <h3 id="Step to do Dashboard:">Step to do Dashboard:</h3>
 <div align="justify">
 1. Create table in BigQuery<br>
@@ -193,7 +191,7 @@ Notes2: Calculated Field, write your equations
 If an existing column doesn't meet our needs, we can write an equation from the existing data to create the column we need.
 </i>
 <br>
-</div> 
+</div>
 
 <h2 id="Certificate after graduation">Certificate after graduation</h2>
 After completing the course and passing the final exam, you will immediately receive a certificate from the Road to Data Engineer instructor!
@@ -212,6 +210,3 @@ After completing the course and passing the final exam, you will immediately rec
 <li>
 <a href="https://datastudio.google.com/u/0/reporting/77caf52a-121c-4728-8edd-47453f22a1b3/page/qRFbC">LINK to my Google Data Studio Dashboard</a>
 </li>
-
-
-
