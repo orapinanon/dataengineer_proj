@@ -155,7 +155,6 @@ Create a View to let DataAnalyst see only information to use<br>
 3. Create Dashboard
 </div>  
 
-<a href="https://datastudio.google.com/reporting/77caf52a-121c-4728-8edd-47453f22a1b3">LINK to my Google Data Studio Dashboard</a>
 <h3 id="The 1st Dashboard contains:">The Dashboard 1 "Overview" contains:</h3>
 <div align="justify">
 Show summary:<br>
